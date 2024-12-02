@@ -1,0 +1,27 @@
+.form-label{
+  font-weight: bold;
+}
+body{
+  background-color: aliceblue !important;
+  font-family: 'Times New Roman', Times, serif !important;
+}
+.form{
+  font-weight: bold;
+}
+.core-concept{
+  display: flex;
+  column-gap: 30px;
+  justify-content: center;
+}
+#button{
+  border:none;
+  margin:5px;
+  padding:7px;
+  border-radius: 5px;
+}
+#button:hover{
+  background-color: rgb(223, 218, 218);
+}
+#button.active{
+  background-color: rgb(161, 161, 245);
+}
