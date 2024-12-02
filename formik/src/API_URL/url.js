@@ -1,0 +1,1 @@
+export const API_URL='https://65602acf83aba11d99d05511.mockapi.io/LoginData/'

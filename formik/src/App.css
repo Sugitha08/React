@@ -1,0 +1,57 @@
+#create1 .card {
+  border: none !important;
+}
+.form-label {
+  font-weight: bold;
+  text-transform: uppercase;
+  color: rgb(72, 71, 71);
+}
+#create1 .btn {
+  letter-spacing: 2px;
+  color: white;
+  font-weight: 500;
+}
+#create1 .btn:hover {
+  color: rgb(149, 144, 144);
+  letter-spacing: 3px;
+}
+
+#create1 .relative {
+  position: relative;
+}
+#create1 i.absolute {
+  position: absolute;
+  right: 30px;
+  top: 10px;
+}
+#update1 .btn {
+  letter-spacing: 2px;
+  color: white;
+  font-weight: 500;
+}
+
+#update1 .btn:hover {
+  color: rgb(149, 144, 144);
+  letter-spacing: 3px;
+}
+
+#check {
+  width: 50px;
+}
+.search {
+  width: 100px;
+}
+.edit:hover {
+  background-color: rgb(91, 91, 245);
+  color: white;
+}
+.delete:hover {
+  background-color: rgb(255, 15, 15);
+  color: white;
+}
+
+#create1 .error{
+  color:#DC3545;
+  font-size: 14px;
+  margin-top: 4px;
+}
